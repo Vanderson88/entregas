@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167611899987",
+    "project_id": "entregas-app-415f3",
+    "storage_bucket": "entregas-app-415f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167611899987:android:1833cd72a94187582466a6",
+        "android_client_info": {
+          "package_name": "com.example.entregas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167611899987-eunucemfec99pfl3514lkp1ee9piidh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.entregas",
+            "certificate_hash": "e19f23451eab0d95cbea00cb7f120a372a99d90d"
+          }
+        },
+        {
+          "client_id": "167611899987-o0l65ku8oekmbls6g64p0avjqb2ojfnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBevW3ZbqvXUU79-MDWlhgWmTLG_CNd7CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167611899987-o0l65ku8oekmbls6g64p0avjqb2ojfnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
